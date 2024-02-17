@@ -4,4 +4,4 @@ Voici mon portfolio web réaliser sans **JavaScript** dans la contrainte d'un ca
 
 Seul HTML / CSS / PHP ont été utilisés.
 
-Accessible via le lien suivant : [https://github.com/EwanQuelo/portfolio1](http://ewan-quelo-portfolio.rf.gd/)
+Accessible en ligne ici : [Portfolio](http://ewan-quelo-portfolio.rf.gd/)
